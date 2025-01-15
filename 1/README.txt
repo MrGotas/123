@@ -1,0 +1,1 @@
+g++ main.cpp hash_table.cpp listD.cpp listF.cpp massive.cpp queue.cpp stack.cpp -o mypr
